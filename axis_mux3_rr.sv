@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
-// Company     : Viscore Inc.
-// Engineer    : Grigri Grigoriev
+// Company     : 
+// Engineer    : 
 //
 // Create Date : Sun Oct 03 11:41:45 EDT 2021
 //
